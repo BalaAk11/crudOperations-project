@@ -1,0 +1,12 @@
+.Main
+{
+  background-color: rgb(237, 246, 246);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+}
+.table th{
+ background-color: darkcyan;
+}
